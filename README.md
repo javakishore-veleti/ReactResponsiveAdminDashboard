@@ -15,4 +15,6 @@ cd ReactResponsiveAdminDashboard
 npm install
 npm run dev
 
+npm install recharts react-icons
+
 ```
